@@ -5,6 +5,8 @@ scripts/
 tests/
 runs/
 saved_models/
+dash-app.tar
+notes.md
 *.pyc
 *.pyo
 .env
